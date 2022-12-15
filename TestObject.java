@@ -5,5 +5,7 @@ public class TestObject {
 
     public static void main(String[] args) {
         System.out.println("Hello world!");
+        //bug 修改
+        System.out.println("hello个头");
     }
 }
